@@ -11,7 +11,7 @@
 Clone the repository: </p>
 
 <li>Copy code<br>
-<pre><code>git clone https://github.com/yourusername/your-repo-name.git</code></pre>
+<pre><code>git clone https://github.com/Ishansubedi30/Wt-project-Ishan.git</code></pre>
 <pre><code>cd your-repo-name</code></pre></li>
 
 <li>Move the project to your PHP server directory:<br> 
